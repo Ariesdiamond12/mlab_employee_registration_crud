@@ -1,5 +1,13 @@
 # React + Vite
 
+# Employee Registration Application CRUD - Create Read Update Delete
+
+# This is a simple employee registration application using React and Vite.
+
+# It allows users to create, read, update, and delete employee records.
+
+# The application is built using React and Vite
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
