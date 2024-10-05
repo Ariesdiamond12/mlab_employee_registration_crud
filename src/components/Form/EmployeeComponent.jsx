@@ -8,7 +8,7 @@ const EmployeeComponent = () => {
   const [id, setId] = useState("");
   const [image, setImage] = useState("");
   const [position, setPosition] = useState("");
-  const [employees, setEmployees] = useState([]);
+  const [employees, setEmployees] = useState([]); //I used  an array to store the data of all employees
   const [selectedEmployee, setSelectedEmployee] = useState(null);
 
   const handleSubmit = (event) => {

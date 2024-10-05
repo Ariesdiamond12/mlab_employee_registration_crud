@@ -1,12 +1,18 @@
 # React + Vite
 
-# Employee Registration Application CRUD - Create Read Update Delete
+<!-- Employee Registration Application CRUD - Create Read Update Delete -->
+<!-- This is a simple employee registration application using React and Vite. -->
+<!-- I have created an Employee Component where  you can add, read, update and delete employee details. -->
+<!-- I have a Navbar  component for navigation -->
 
-# This is a simple employee registration application using React and Vite.
-
-# It allows users to create, read, update, and delete employee records.
-
-# The application is built using React and Vite
+<!-- It allows users to create, read, update, and delete employee records. -->
+<!-- I've style my application using css -->
+<!-- Employees can add their name and surname, phone number, email address, upload a profile picture, and select which job position they  have. -->
+<!-- I've used  the useState hook to store the employee data in the state of the application. -->
+<!-- I've added a handleDelete  function to delete an employee record. -->
+<!-- I've added a handleUpdate function to update an employee record. -->
+<!-- I've added a handleAdd function to add a new employee record. -->
+<!-- I've added a handleChange  function to handle changes to the employee data. -->
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
