@@ -5,7 +5,7 @@ import EmployeeComponent from "./components/Form/EmployeeComponent";
 const App = () => {
   return (
     <div className="container">
-      <NavbarComponent />
+      {/* <NavbarComponent /> */}
       <EmployeeComponent />
     </div>
   );
